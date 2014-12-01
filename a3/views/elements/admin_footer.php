@@ -1,4 +1,4 @@
-   <!-- Le javascript
+<!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="<?php echo BASE_URL?>views/js/jquery.js"></script>
@@ -26,7 +26,7 @@
 				toggle: {text: 'source', activetext: 'wysiwyg', cssclass: 'toggle'},
 				resize: {cssclass: 'resize'}
 			});
-			
+
 
 		</script>
 
